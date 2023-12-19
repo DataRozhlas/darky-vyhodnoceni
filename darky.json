@@ -1,0 +1,362 @@
+[
+  {
+    "id": 0,
+    "use": true,
+    "name": "Powerbanka",
+    "image": "698140_a power bank, illustration in the style of the 196_xl-1024-v1-0.png",
+    "key": "powerbanka",
+    "genitiv": "powerbanky",
+    "dativ": "powerbance",
+    "akuzativ": "powerbanku"
+  },
+  {
+    "id": 1,
+    "use": true,
+    "name": "Kapesní diář na rok 2024",
+    "image": "65146_a pocket diary, product illustration in the style _xl-1024-v1-0.png",
+    "key": "diar",
+    "genitiv": "kapesního diáře",
+    "dativ": "kapesnímu diáři",
+    "akuzativ": "kapesní diář"
+  },
+  {
+    "id": 2,
+    "use": true,
+    "name": "Šála",
+    "image": "431553_a simple minimalist unisex scarf, product illustra_xl-1024-v1-0.png",
+    "key": "sala",
+    "genitiv": "šály",
+    "dativ": "šále",
+    "akuzativ": "šálu"
+  },
+  {
+    "id": 3,
+    "use": true,
+    "name": "Náhrdelník nebo jiný šperk",
+    "image": "73891_a simple minimalist unisex necklace, product illus_xl-1024-v1-0.png",
+    "key": "sperk",
+    "genitiv": "náhrdelníku nebo jiného šperku",
+    "dativ": "náhrdelníku nebo jinému šperku",
+    "akuzativ": "náhrdelník nebo jiný šperk"
+  },
+  {
+    "id": 4,
+    "use": true,
+    "name": "Sada šroubovacích bitů nebo podobná kutilská drobnost",
+    "image": "965681_screwdriver bit set in a box, product illustration_xl-1024-v1-0.png",
+    "key": "kutilska-drobnost",
+    "genitiv": "kutilské drobnosti",
+    "dativ": "kutilské drobnosti"
+  },
+  {
+    "id": 5,
+    "use": true,
+    "name": "Poukaz do supermarketu",
+    "image": "251_supermarket shelves, illustration in the style of _xl-1024-v1-0.png",
+    "key": "poukaz-do-supermarketu",
+    "genitiv": "poukazu do supermarketu",
+    "dativ": "poukazu do supermarketu",
+    "akuzativ": "poukaz do supermarketu"
+  },
+  {
+    "id": 6,
+    "use": true,
+    "name": "Kniha",
+    "image": "738310_a nice book on a table with a cup of coffee, illus_xl-1024-v1-0.png",
+    "key": "kniha",
+    "genitiv": "knihy",
+    "dativ": "knize",
+    "akuzativ": "knihu"
+  },
+  {
+    "id": 7,
+    "use": true,
+    "name": "Poukaz do knihkupectví",
+    "image": "501653_sillouhettes of customers in a bookstore, illustra_xl-1024-v1-0.png",
+    "key": "poukaz-do-knihkupectvi",
+    "genitiv": "poukazu do knihkupectví",
+    "dativ": "poukazu do knihkupectví",
+    "akuzativ": "poukaz do knihkupectví"
+  },
+  {
+    "id": 8,
+    "use": true,
+    "name": "Poukaz do kina",
+    "image": "757044_show time in a cinema, big movie on the screen, il_xl-1024-v1-0.png",
+    "key": "poukaz-do-kina",
+    "genitiv": "poukazu do kina",
+    "dativ": "poukazu do kina",
+    "akuzativ": "poukaz do kina"
+  },
+  {
+    "id": 9,
+    "use": true,
+    "name": "Dárkový balíček kosmetiky",
+    "image": "455722_a gift pack with soap and shampoo, illustration in_xl-1024-v1-0.png",
+    "key": "kosmetika",
+    "genitiv": "dárkového balíčku kosmetiky",
+    "dativ": "dárkovému balíčku kosmetiky",
+    "akuzativ": "dárkový balíček kosmetiky"
+  },
+  {
+    "id": 10,
+    "use": true,
+    "name": "Lahev vína",
+    "image": "21979_a plain bottle of wine, illustration in the style _xl-1024-v1-0.png",
+    "key": "vino",
+    "genitiv": "lahve vína",
+    "dativ": "lahvi vína",
+    "akuzativ": "lahev vína"
+  },
+  {
+    "id": 11,
+    "use": true,
+    "name": "Poukaz na návštěvu památky v okolí",
+    "image": "75654_a small historical castle in the Czech Republic, i_xl-1024-v1-0.png",
+    "key": "navsteva-pamatky",
+    "genitiv": "poukazu na návštěvu památky v okolí",
+    "dativ": "poukazu na návštěvu památky v okolí",
+    "akuzativ": "poukaz na návštěvu památky v okolí"
+  },
+  {
+    "id": 12,
+    "use": true,
+    "name": "Kalendář s fotografiemi vašich blízkých",
+    "image": "770767_a desk calendar with family picture, illustration _xl-1024-v1-0.png",
+    "key": "kalendar",
+    "genitiv": "kalendáře s fotografiemi vašich blízkých",
+    "dativ": "kalendáři s fotografiemi vašich blízkých",
+    "akuzativ": "kalendář s fotografiemi vašich blízkých"
+  },
+  {
+    "id": 13,
+    "use": true,
+    "name": "Čelovka",
+    "image": "891433_a miner's headlamp on a miner's head, illustration_xl-1024-v1-0.png",
+    "key": "celovka",
+    "genitiv": "čelovky",
+    "dativ": "čelovce",
+    "akuzativ": "čelovku"
+  },
+  {
+    "id": 14,
+    "use": true,
+    "name": "Strojek pro mokré holení",
+    "image": "40205_a razor with a shaving foam all around, magazine i_xl-1024-v1-0.png",
+    "key": "holici-strojek",
+    "genitiv": "holícího strojku",
+    "dativ": "holícímu strojku",
+    "akuzativ": "holící strojek"
+  },
+  {
+    "id": 15,
+    "use": true,
+    "name": "Drobnost, kterou jste v poslední době ztratili (nožík, termoska)",
+    "image": "604667_a question mark, illustration in the style of 1960_xl-1024-v1-0.png",
+    "key": "ztracena-drobnost",
+    "genitiv": "drobnosti, kterou jste v poslední době ztratili",
+    "dativ": "drobnosti, kterou jste v poslední době ztratili",
+    "akuzativ": "drobnost, kterou jste v poslední době ztratili"
+  },
+  {
+    "id": 16,
+    "use": true,
+    "name": "Čokoláda nebo bonboniéra",
+    "image": "390715_a box of chocolate pralines, illustration in the s_xl-1024-v1-0.png",
+    "key": "cokolada",
+    "genitiv": "čokolády nebo bonboniéry",
+    "dativ": "čokoládě nebo bonboniéře",
+    "akuzativ": "čokoládu nebo bonboniéru"
+  },
+  {
+    "id": 17,
+    "use": true,
+    "name": "Poukaz do fitka",
+    "image": "338761_a small town gym, illustration in the style of 196_xl-1024-v1-0.png",
+    "key": "poukaz-do-fitka",
+    "genitiv": "poukazu do fitka",
+    "dativ": "poukazu do fitka",
+    "akuzativ": "poukaz do fitka"
+  },
+  {
+    "id": 18,
+    "use": true,
+    "name": "Poukaz na lekce jógy",
+    "image": "602309_a man doing yoga in a yoga studio, illustration in_xl-1024-v1-0.png",
+    "key": "poukaz-na-jogu",
+    "genitiv": "poukazu na lekce jógy",
+    "dativ": "poukazu na lekce jógy",
+    "akuzativ": "poukaz na lekce jógy"
+  },
+  {
+    "id": 19,
+    "use": true,
+    "name": "Poukaz do sauny",
+    "image": "835329_a man sitting in a sweat room in a sauna, illustra_xl-1024-v1-0.png",
+    "key": "poukaz-do-sauny",
+    "genitiv": "poukazu do sauny",
+    "dativ": "poukazu do sauny",
+    "akuzativ": "poukaz do sauny"
+  },
+  {
+    "id": 20,
+    "use": true,
+    "name": "Svetr",
+    "image": "775336_a nice warm unisex sweater, a product picture, ill_xl-1024-v1-0.png",
+    "key": "svetr",
+    "genitiv": "svetru",
+    "dativ": "svetru",
+    "akuzativ": "svetr"
+  },
+  {
+    "id": 21,
+    "use": true,
+    "name": "Pánvička nebo kastrůlek",
+    "image": "284537_a frying pan and a pot, illustration in the style _xl-1024-v1-0.png",
+    "key": "panvicka",
+    "genitiv": "pánvičky nebo kastrůlku",
+    "dativ": "pánvičce nebo kastrůlku",
+    "akuzativ": "pánvičku nebo kastrůlek"
+  },
+  {
+    "id": 22,
+    "use": true,
+    "name": "Předplatné streamovací platformy",
+    "image": "483525_a TV playing The Friends, How I Met Your Mother or_xl-1024-v1-0.png",
+    "key": "predplatne-streamovaci",
+    "genitiv": "předplatné streamovací platformy",
+    "dativ": "předplatné streamovací platformy",
+    "akuzativ": "předplatné streamovací platformy"
+  },
+  {
+    "id": 23,
+    "use": true,
+    "name": "Deskovka",
+    "image": "632915_a box with a board game, illustration in the style_xl-1024-v1-0.png",
+    "key": "deskovka",
+    "genitiv": "deskovky",
+    "dativ": "deskovce",
+    "akuzativ": "deskovku"
+  },
+  {
+    "id": 24,
+    "use": true,
+    "name": "Několik piv z malých pivovarů",
+    "image": "445001_bottles of craft beers, illustration in the style _xl-1024-v1-0.png",
+    "key": "pivo",
+    "genitiv": "několika piv z malých pivovarů",
+    "dativ": "několika pivům z malých pivovarů",
+    "akuzativ": "několik piv z malých pivovarů"
+  },
+  {
+    "id": 25,
+    "use": true,
+    "name": "Poukaz na jízdu vlakem",
+    "image": "252025_a train trip through Czech countryside, illustrati_xl-1024-v1-0.png",
+    "key": "jizda-vlakem",
+    "genitiv": "poukazu na jízdu vlakem",
+    "dativ": "poukazu na jízdu vlakem",
+    "akuzativ": "poukaz na jízdu vlakem"
+  },
+  {
+    "id": 26,
+    "use": true,
+    "name": "Kvalitní káva",
+    "image": "844195_a bag of coffee beans, illustration in the style o_xl-1024-v1-0.png",
+    "key": "kava",
+    "genitiv": "kvalitní kávy",
+    "dativ": "kvalitní kávě",
+    "akuzativ": "kvalitní kávu"
+  },
+  {
+    "id": 27,
+    "use": true,
+    "name": "Ponožky",
+    "image": "735451_pair of knitted woolen socks, illustration in the _xl-1024-v1-0.png",
+    "key": "ponozky",
+    "genitiv": "ponožek",
+    "dativ": "ponožkám",
+    "akuzativ": "ponožky"
+  },
+  {
+    "id": 28,
+    "use": true,
+    "name": "Vstupenka na konkrétní divadelní představení",
+    "image": "735448_a theatre play, illustration in the style of 1960s_xl-1024-v1-0.png",
+    "key": "divadlo-konkretni-predstaveni",
+    "genitiv": "vstupenky na konkrétní divadelní představení",
+    "dativ": "vstupence na konkrétní divadelní představení",
+    "akuzativ": "vstupenku na konkrétní divadelní představení"
+  },
+  {
+    "id": 29,
+    "use": true,
+    "name": "Poukaz na divadelní představení dle vlastního výběru",
+    "image": "735449_a theatre play, illustration in the style of 1960s_xl-1024-v1-0.png",
+    "key": "divadlo-dle-vyberu",
+    "genitiv": "poukazu na divadelní představení dle vlastního výběru",
+    "dativ": "poukazu na divadelní představení dle vlastního výběru",
+    "akuzativ": "poukaz na divadelní představení dle vlastního výběru"
+  },
+  {
+    "id": 30,
+    "use": true,
+    "name": "Obálka s hotovostí",
+    "image": "303298_a paper envelope with a few Euro banknotes, in the_xl-1024-v1-0.png",
+    "key": "hotovost",
+    "genitiv": "obálky s hotovostí",
+    "dativ": "obálce s hotovostí",
+    "akuzativ": "obálku s hotovostí"
+  },
+  {
+    "id": 31,
+    "use": true,
+    "name": "Poukaz na profesionální masáž",
+    "image": "194137_sports masseur massages the back, illustration in _xl-1024-v1-0.png",
+    "key": "masaz",
+    "genitiv": "poukazu na profesionální masáž",
+    "dativ": "poukazu na profesionální masáž",
+    "akuzativ": "poukaz na profesionální masáž"
+  },
+  {
+    "id": 32,
+    "use": true,
+    "name": "Poukázka do řetězce s oblečením",
+    "image": "42364_interior of a cheap fast fashion chain, lots of cl_xl-1024-v1-0.png",
+    "key": "poukaz-obleceni",
+    "genitiv": "poukázky do řetězce s oblečením",
+    "dativ": "poukázce do řetězce s oblečením",
+    "akuzativ": "poukázku do řetězce s oblečením"
+  },
+  {
+    "id": 33,
+    "use": true,
+    "name": "Štěně",
+    "image": "831650_a puppy, illustration in the style of the 1980s Ea_xl-1024-v1-0.png",
+    "key": "stene",
+    "genitiv": "Štěňátka",
+    "dativ": "Štěňátku",
+    "akuzativ": "Štěňátko"
+  },
+  {
+    "id": 34,
+    "use": true,
+    "name": "Humorné tričko",
+    "image": "DALL·E 2023-12-11 17.12.30 - A t-shirt with the text _PÁTEK!_ in a style reminiscent of 1980s Eastern European graphic design, similar to the layout of the first image. The illust.png",
+    "key": "humorne-tricko",
+    "genitiv": "Humorného trička",
+    "dativ": "Humornému tričku",
+    "akuzativ": "Humorné tričko"
+  },
+  {
+    "id": 34,
+    "use": true,
+    "name": "Předplatné časopisu",
+    "image": "512633_a pile of expensive magazines, illustration in the_xl-1024-v1-0.png",
+    "key": "predplatne-casopisu",
+    "genitiv": "Předplatného časopisu",
+    "dativ": "Předplatnému časopisu",
+    "akuzativ": "Předplatné časopisu"
+  }
+  
+]
